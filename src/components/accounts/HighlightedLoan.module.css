@@ -1,0 +1,24 @@
+.quote {
+  background-color: #FBFBEF;  
+  border-radius: 6px;
+  padding: 3rem;
+  margin: 3rem auto;
+  width: 100%;
+  max-width: 40rem;
+  font-size: 1.5rem;
+  color: #212929;
+}
+
+.quote p {
+  font-size: 1.5rem;
+}
+
+.quote figcaption {
+  font-style: italic;
+  font-size: 1.5rem;
+  text-align: right;  
+  font-style: italic;
+  color: #005481;
+  font-weight: bold;
+  
+}

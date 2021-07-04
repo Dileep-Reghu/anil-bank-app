@@ -1,0 +1,17 @@
+.noquotes {
+  height: 10rem;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.noquotes p {
+  color: #005481;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
